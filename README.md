@@ -3,7 +3,7 @@
 ## Hostrime 介绍
 Hostrime 自2012年成立以来，已经成为提供高品质和高性能托管服务的知名品牌。我们的目标是提供快速、安全、可靠且价格合理的托管环境，帮助您的业务迈向新的高度。我们提供丰富的VPS套餐，配备实时的24/7客户支持，确保满足客户的所有需求。
 
-![Uploading image.png…]()
+![image](https://github.com/TaragJacksonu81/Hostrime/assets/167749425/734cbc83-eed0-4107-a7eb-9cf425ca1f66)
 
 ## Hostrime 官网地址
 - [https://www.hostrime.com](https://my.hostrime.com/aff.php?aff=4)
